@@ -1,7 +1,8 @@
-INTEGRANTES:
-Carlos Ariel Sanchez Aragones
-Luis Enrique Camaros Valdes
-G-403
+<h1>INTEGRANTES:</h1>
+<h3>Carlos Ariel Sanchez Aragones</h3>
+<h3>Luis Enrique Camaros Valdes</h3>
+<h3>G-403</h3>
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
